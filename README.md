@@ -1,7 +1,7 @@
 # 
 
 
-#weekday2:
+# weekday2:
 
 opgaven findes i day2 i repositoriet
 
@@ -14,7 +14,7 @@ Ligeledes bliver man introduceret for EntityManager, EntityManagerFactory.
 Opgaven er fælrdig.
 
 
-#Weekday3:
+# Weekday3:
 
 opgaven findes i day3 i repositoriet.
 
@@ -23,7 +23,7 @@ opgaven drejer sig om REST og api'er..
 Status på opgaven er at den er lavet færdig.
 
 
-Weekday4:
+# Weekday4:
 
 Desværre blev hele min opgave slettet uhensigtsmæssigt, da jeg var igang med at uploade den. 
 
@@ -36,7 +36,7 @@ genskabe den eller finde den igen.
 Men status på opgaven var at den var færdig.
 
 
-Weekday5:
+# Weekday5:
 
 opgaven kan findes under day5:
 
